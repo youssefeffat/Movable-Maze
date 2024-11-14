@@ -115,7 +115,7 @@ double operator*(const Vector &v1, const Vector &v2)
     return res;
 }
 
-// Vector product
+// Vector product .
 Vector operator^(const Vector &v1, const Vector &v2)
 {
     Vector res;
